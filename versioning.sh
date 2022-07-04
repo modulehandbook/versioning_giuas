@@ -1,4 +1,4 @@
-# usage: versioning.sh <push_to_git?> <semester_tag_name>
+# usage: versioning.sh <semester_tag_name>
 COURSES_URL=https://module-handbook.herokuapp.com/export_courses_json
 PROGRAMS_URL=https://module-handbook.herokuapp.com/export_programs_json
 
